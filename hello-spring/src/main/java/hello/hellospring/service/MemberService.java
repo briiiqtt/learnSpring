@@ -8,7 +8,7 @@ import org.springframework.stereotype.Service;
 import hello.hellospring.domain.Member;
 import hello.hellospring.repository.MemberRepository;
 
-@Service
+//@Service
 public class MemberService {
 
 	private final MemberRepository memberRepository;
